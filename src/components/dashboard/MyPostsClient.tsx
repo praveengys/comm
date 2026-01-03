@@ -24,8 +24,7 @@ const FeedSkeleton = () => (
                     </div>
                 </div>
                 <Skeleton className="h-4 w-full mb-2" />
-                <Skeleton className="h-4 w-[80%] mb-4" />
-                <Skeleton className="aspect-video w-full rounded-lg" />
+                <Skeleton className="h-4 w-[80%]" />
             </div>
         ))}
     </div>
